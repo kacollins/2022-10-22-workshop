@@ -35,6 +35,21 @@ Our audience for this workshop is adults learning about coding with HTML and CSS
 * Please contact facilitator Kimberly Collins (kcollins at techlahoma.org) if you have any questions about the workshop or are interested in sponsorship or volunteering!
 * [Kimberly](https://www.linkedin.com/in/collins-kimberly/) is a professional software development consultant with 16 years of experience and strong ties to the local technology community. She has organized numerous user group meetups and networking events, been involved in coding bootcamps, given talks, and mentored junior developers. She has facilitated workshops on Django, Ruby on Rails, and HTML/CSS and is excited about this one!
 
+## HTML and CSS
+
+What are HTML and CSS? Read about them in The Odin Project's [foundations course](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css)!
+
+### HTML Resources
+* [Codecademy Cheatsheets](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [W3Schools](https://www.w3schools.com/html/)
+
+### CSS Resources
+* [Codecademy Cheatsheets](https://www.codecademy.com/learn/learn-css/modules/syntax-and-selectors/cheatsheet)
+* [CSS Tricks](https://css-tricks.com/)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [W3Schools](https://www.w3schools.com/css/)
+
 ## Techlahoma
 This workshop is hosted by the [Techlahoma Foundation](https://www.techlahoma.org/), a professional network of more than 5,000 information technology workers, hobbyists, students, teachers, and future technologists. 
 
