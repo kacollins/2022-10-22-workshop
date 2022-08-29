@@ -2,7 +2,7 @@
 
 ## Beginner Coding Workshop
 
-Beginners with no web development experience will have the chance to give coding a try with in-person help from coaches at this workshop! It will be in the Oklahoma City metro area on Saturday, October 22, 2022. 
+Beginners with no web development experience will have the chance to give coding a try with in-person help from coaches at this workshop! It will be in the Oklahoma City metro area on Saturday, October 22, 2022. The deadline to [apply to attend](https://forms.gle/zwhcyCNG3WXxtbYo6) this workshop is October 1.
 
 We'll start at 1:00 pm and go until 5:00 pm. The exact location will be shared with accepted participants. This event is free to attendees because of our sponsors!
 
@@ -27,8 +27,7 @@ If you've worked on this course before, you can start where you left off. Be sur
 Our audience for this workshop is adults learning about coding with HTML and CSS. We expect to have 20-30 attendees, 10-12 volunteers (including coaches), and a facilitator. Coaches will be experienced developers. Members of underrepresented groups are highly encouraged to attend!
 
 #### Attendees
-* The deadline to [apply to attend](https://forms.gle/zwhcyCNG3WXxtbYo6) this workshop is October 1.
-* We'll let you know whether your application to attend is accepted as soon as we can.
+* We'll let you know whether your [application to attend](https://forms.gle/zwhcyCNG3WXxtbYo6) is accepted as soon as we can.
 * You'll need to bring a laptop to this workshop. If you don't have access to one, you can [borrow a Chromebook](https://www.metrolibrary.org/discover/technology#computers) from the Metropolitan Library System.
 * We'll be communicating with participants through [Techlahoma's Slack](https://fccokc.com/slack), so joining it is a requirement for this workshop!
 
