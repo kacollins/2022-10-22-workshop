@@ -2,15 +2,20 @@
 
 ## Beginner Coding Workshop
 
-Beginners with no web development experience will have the chance to give coding a try with in-person help from coaches at this workshop! It will be in (or near) [Midtown Oklahoma City](https://goo.gl/maps/pdG5ZD7d5cAXJEF48) on Saturday, October 22, 2022. 
+Beginners with no web development experience will have the chance to give coding a try with in-person help from coaches at this workshop! It will be in the Oklahoma City metro area on Saturday, October 22, 2022. 
 
-We'll start at 1:00 pm and go until 5:00 pm. The exact location will be shared with accepted applicants. This event is free to attendees because of our sponsors!
+We'll start at 1:00 pm and go until 5:00 pm. The exact location will be shared with accepted participants. This event is free to attendees because of our sponsors!
 
 ### Sponsors
 
 We’re looking for [sponsors](https://docs.google.com/document/d/1l3QvZ0DInVqpiKFsdw4L3ZinT-J4m_wL6JDDRx0uv44/) to cover the costs for this beginner-level coding workshop so that it’s free for community members to attend.
 
-For sponsorship questions and sales, or to request an in-kind or other custom sponsorship package, contact the workshop facilitator Kimberly Collins (kcollins at techlahoma.org).
+Contact for sponsorship questions and sales, or to request an in-kind or other custom sponsorship package:
+```
+Kimberly Collins 
+Workshop Facilitator
+kcollins at techlahoma.org
+```
 
 ### Curriculum
 We'll be using the [Legacy Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) course on [freeCodeCamp](https://www.freecodecamp.org/)! Brand-new coders will start at the [Basic HTML](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5) section. 
