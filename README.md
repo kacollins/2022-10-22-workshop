@@ -2,7 +2,7 @@
 
 ## Beginner Coding Workshop
 
-Beginners with no web development experience will have the chance to give coding a try with in-person help from coaches at this workshop! It will be at [Clevyr](https://clevyr.com/) on Saturday, October 22, 2022. The deadline to [apply to attend](https://forms.gle/zwhcyCNG3WXxtbYo6) this workshop is October 1.
+Beginners with no web development experience will have the chance to give coding a try with in-person help from coaches at this workshop! It will be at [Clevyr](https://clevyr.com/) on Saturday, October 22, 2022. The deadline to [apply to attend](https://forms.gle/zwhcyCNG3WXxtbYo6) this workshop is October 8.
 
 We'll start at 1:00 pm and go until 5:00 pm. This event is free to attendees because of our sponsors!
 
