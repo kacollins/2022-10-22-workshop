@@ -18,6 +18,12 @@ Workshop Facilitator
 kcollins at techlahoma.org
 ```
 
+#### Thank you to our sponsors!
+
+<a href="https://www.ghost.agency/"><img src="ghost-logo.svg" alt="Ghost Agency" width="75%"/></a>
+
+<a href="https://sugarsecurity.com/"><img src="SugarSecurity.png" alt="Sugar Security" width="75%"/></a>
+
 ### Curriculum
 
 We'll be using the [Legacy Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) course on [freeCodeCamp](https://www.freecodecamp.org/)! Brand-new coders will start at the [Basic HTML](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5) section.
@@ -66,6 +72,8 @@ What are HTML and CSS? Read about them in The Odin Project's [foundations course
 This workshop is hosted by the [Techlahoma Foundation](https://www.techlahoma.org/), a professional network of more than 5,000 information technology workers, hobbyists, students, teachers, and future technologists.
 
 Techlahoma hosts monthly user group meetups and 3 annual conferences (200 OK, UXOK, and ThunderPlains) that train on the latest skills needed to obtain employment and succeed in today's increasingly tech-focused workforce. We teach and discuss topics ranging from design, coding, data science, hardware, mobile apps, and much more.
+
+<a href="https://www.techlahoma.org/"><img src="techlahoma_horizontaltext.png" alt="Techlahoma" width="75%"/></a>
 
 ### Donations
 
