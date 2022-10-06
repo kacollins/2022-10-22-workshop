@@ -39,6 +39,11 @@ Our audience for this workshop is adults learning about coding with HTML and CSS
 - We'll let you know whether your [application to attend](https://forms.gle/zwhcyCNG3WXxtbYo6) is accepted as soon as we can.
 - You'll need to bring a laptop to this workshop. If you don't have access to one, you can [borrow a Chromebook](https://www.metrolibrary.org/discover/technology#computers) from the Metropolitan Library System.
 - We'll be communicating with participants through [Techlahoma's Slack](https://fccokc.com/slack), so joining it is a requirement for this workshop!
+- If you're interested but can't make it to the workshop:
+    * Fill out the attendee application but mark that you can't go on the attendance question at the end.
+    * If you already signed up, let the workshop facilitator know you won't be there.
+    * Look for other coding meetups to attend instead (https://www.meetup.com/techlahoma-foundation). 
+    * Join the community in Slack (https://fccokc.com/slack).
 
 #### Coaches and Volunteers
 
