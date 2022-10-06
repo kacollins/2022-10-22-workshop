@@ -42,8 +42,8 @@ Our audience for this workshop is adults learning about coding with HTML and CSS
 - If you're interested but can't make it to the workshop:
     * Fill out the attendee application but mark that you can't go on the attendance question at the end.
     * If you already signed up, let the workshop facilitator know you won't be there.
-    * Look for other coding meetups to attend instead (https://www.meetup.com/techlahoma-foundation). 
-    * Join the community in Slack (https://fccokc.com/slack).
+    * Look for other coding meetups to attend instead at [Techlahoma's Meetup](https://www.meetup.com/techlahoma-foundation). 
+    * Join the community in  [Techlahoma's Slack](https://fccokc.com/slack).
 
 #### Coaches and Volunteers
 
