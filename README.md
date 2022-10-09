@@ -21,7 +21,7 @@ kcollins at techlahoma.org
 #### Thank you to our sponsors!
 
 <a href="https://www.ghost.agency/"><img src="images/ghost-logo.svg" alt="Ghost Agency" width="75%"/></a>
-
+<a href="https://www.startup.dev"><img src="images/startup-dev-logo.svg" alt="Startup Dev" width="75%"/></a>
 <a href="https://sugarsecurity.com/"><img src="images/sugar-security-logo.png" alt="Sugar Security" width="75%"/></a>
 
 ### Curriculum
