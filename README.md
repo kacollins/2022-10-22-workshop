@@ -57,8 +57,8 @@ kcollins at techlahoma.org
 
 .sponsor p {
   color: white;
-  font-size: 1.25em;
   font-weight: bold;
+  padding-top: 20px;
   text-transform: uppercase;
 }
 
@@ -66,6 +66,7 @@ kcollins at techlahoma.org
 @media screen and (max-width: 500px) {
   .sponsor-group {
     flex-direction: column;
+    padding-bottom: 2.5rem;
   }
 
   .sponsor a {
