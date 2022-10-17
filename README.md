@@ -40,7 +40,6 @@ kcollins at techlahoma.org
 }
 
 .gold-level {
-  justify-content: center;
   height: 9rem;
 }
 
@@ -58,7 +57,7 @@ kcollins at techlahoma.org
 
 .sponsor p {
   color: white;
-  font-size: large;
+  font-size: 1.25em;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -74,13 +73,12 @@ kcollins at techlahoma.org
   }
 }
 </style>
-<div class="sponsor-group">
-  <div class="sponsor gold-level">
-    <a href="https://www.ghost.agency/" target="_blank">
-      <img src="images/ghost-logo.svg" alt="Ghost Agency" />
-    </a>
-  </div>
+<div class="sponsor gold-level">
+  <a href="https://www.ghost.agency/" target="_blank">
+    <img src="images/ghost-logo.svg" alt="Ghost Agency" />
+  </a>
 </div>
+
 <div class="sponsor-group">
   <div class="sponsor">
     <a href="https://www.startup.dev" target="_blank">
@@ -94,8 +92,8 @@ kcollins at techlahoma.org
   </div>
   <div class="sponsor">
     <a href="https://www.ofashandfire.com/" target="_blank">
-      <img src="https://pbs.twimg.com/media/FfReTL6WIAAxxnT?format=png&name=small" alt="Of Ash and Fire" />
-      Of Ash and Fire
+      <img src="images/of-ash-and-fire.png" alt="Of Ash and Fire" />
+      <p>Of Ash and Fire</p>
     </a>
   </div>  
 </div>
