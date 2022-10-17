@@ -118,7 +118,7 @@ Our audience for this workshop is adults learning about coding with HTML and CSS
     * Fill out the attendee application but mark that you can't go on the attendance question at the end.
     * If you already signed up, let the workshop facilitator know you won't be there.
     * Look for other coding meetups to attend instead at [Techlahoma's Meetup](https://www.meetup.com/techlahoma-foundation). 
-    * Join the community in  [Techlahoma's Slack](https://fccokc.com/slack).
+    * Join the community in [Techlahoma's Slack](https://fccokc.com/slack).
 
 #### Coaches and Volunteers
 
@@ -130,9 +130,13 @@ Our audience for this workshop is adults learning about coding with HTML and CSS
 - Please contact facilitator Kimberly Collins (kcollins at techlahoma.org) if you have any questions about the workshop or are interested in sponsorship or volunteering!
 - [Kimberly](https://www.linkedin.com/in/collins-kimberly/) is a professional software development consultant with 16 years of experience and strong ties to the local technology community. She has organized numerous user group meetups and networking events, been involved in coding bootcamps, given talks, and mentored junior developers. She has facilitated workshops on Django, Ruby on Rails, and HTML/CSS and is excited about this one!
 
-#### Slack
+## Slack
 
-Slack is where we'll be communicating before the workshop and sharing information that day. It's also a great place to get to know members of the tech community and find out about local events that are happening. Be sure to periodically check the #2022-10-22-workshop channel for updates! You may also check out the #hacktoberfest channel for updates on how to get started with pull requests. I've been told that this video is helpful for people who are new to Slack: https://youtu.be/RRxQQxiM7AA
+- [Techlahoma's Slack](https://fccokc.com/slack) is where we'll be communicating before the workshop and sharing information that day. 
+- It's also a great place to get to know members of the tech community and find out about local events that are happening. 
+- Be sure to periodically check the [#2022-10-22-workshop channel](https://techlahoma.slack.com/archives/C03HTF0S50V) for updates! 
+- You may also check out the [#hacktoberfest channel](https://techlahoma.slack.com/archives/CD437A8CS) for updates on how to get started with pull requests. 
+- Watch [this video](https://youtu.be/RRxQQxiM7AA) for tips if you're new to Slack!
 
 ## HTML and CSS
 
