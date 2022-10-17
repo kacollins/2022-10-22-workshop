@@ -95,7 +95,7 @@ kcollins at techlahoma.org
   <div class="sponsor">
     <a href="https://www.ofashandfire.com/" target="_blank">
       <img src="https://pbs.twimg.com/media/FfReTL6WIAAxxnT?format=png&name=small" alt="Of Ash and Fire" />
-      <p>Of Ash and Fire<p/>
+      Of Ash and Fire
     </a>
   </div>  
 </div>
