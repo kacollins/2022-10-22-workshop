@@ -39,6 +39,11 @@ kcollins at techlahoma.org
   width: 100%;
 }
 
+.gold-level {
+  justify-content: center;
+  height: 9rem;
+}
+
 .sponsor a {
   display: flex;
   justify-content: center;
@@ -51,6 +56,14 @@ kcollins at techlahoma.org
   max-height: 100%;
 }
 
+.sponsor p {
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+
 @media screen and (max-width: 500px) {
   .sponsor-group {
     flex-direction: column;
@@ -62,11 +75,13 @@ kcollins at techlahoma.org
 }
 </style>
 <div class="sponsor-group">
-  <div class="sponsor">
+  <div class="sponsor gold-level">
     <a href="https://www.ghost.agency/" target="_blank">
       <img src="images/ghost-logo.svg" alt="Ghost Agency" />
     </a>
   </div>
+</div>
+<div class="sponsor-group">
   <div class="sponsor">
     <a href="https://www.startup.dev" target="_blank">
       <img src="images/startup-dev-logo.svg" alt="Startup Dev" />
