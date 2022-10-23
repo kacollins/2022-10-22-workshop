@@ -20,60 +20,6 @@ kcollins at techlahoma.org
 
 #### Thank you to our sponsors!
 
-<style>
-
-/* Sponsor styles */
-.sponsor-group {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  text-align: center;
-  background-color: black;
-  margin-bottom: 1rem;
-}
-
-.sponsor {
-  padding: .5rem;
-  margin: .5rem 0;
-  height: 3rem;
-  width: 100%;
-}
-
-.gold-level {
-  height: 9rem;
-}
-
-.sponsor a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-}
-
-.sponsor img {
-  height: auto;
-  max-height: 100%;
-}
-
-.sponsor p {
-  color: white;
-  font-weight: bold;
-  padding-top: 20px;
-  text-transform: uppercase;
-}
-
-
-@media screen and (max-width: 500px) {
-  .sponsor-group {
-    flex-direction: column;
-    padding-bottom: 2.5rem;
-  }
-
-  .sponsor a {
-    display: block;
-  }
-}
-</style>
 <div class="sponsor gold-level">
   <a href="https://www.ghost.agency/" target="_blank">
     <img src="images/ghost-logo.svg" alt="Ghost Agency" />
